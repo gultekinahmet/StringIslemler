@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  */
 
-public class Main {
+public class StringIslemler {
     public static final String ANSI_YELLOW_BACKGROUND = "\u001B[43m";
     public static final String ANSI_RED = "\u001B[31m";
     public static final String ANSI_RESET = "\u001B[0m";
